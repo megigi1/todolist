@@ -1,0 +1,21 @@
+
+body {
+background-color: lightblue;
+color: black;
+font-family: Lato, sans-serif;
+}
+
+a {
+    color: #B7D3DF;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  height: 80vh;
+  color: black;
+  background-color: lightblue;
+}
+
+
